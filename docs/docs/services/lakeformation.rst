@@ -56,16 +56,16 @@ lakeformation
 - [ ] get_work_units
 - [X] grant_permissions
 - [X] list_data_cells_filter
-  
+
         This currently just returns an empty list, as the corresponding Create is not yet implemented
-        
+
 
 - [ ] list_lake_formation_opt_ins
 - [X] list_lf_tags
 - [X] list_permissions
-  
+
         No parameters have been implemented yet
-        
+
 
 - [X] list_resources
 - [ ] list_table_storage_optimizers
@@ -83,4 +83,3 @@ lakeformation
 - [ ] update_resource
 - [ ] update_table_objects
 - [ ] update_table_storage_optimizer
-
